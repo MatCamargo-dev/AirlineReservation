@@ -1,0 +1,8 @@
+﻿  AirlineReservation.cpp
+  Details.cpp
+  Management.cpp
+C:\Users\mcamargo\Documents\Estudos\C++\Projects\AirlineReservation\AirlineReservation\Management.cpp(10,6): warning C4101: 'schoice': unreferenced local variable
+  Registration.cpp
+  Ticket.cpp
+  Generating Code...
+  AirlineReservation.vcxproj -> C:\Users\mcamargo\Documents\Estudos\C++\Projects\AirlineReservation\x64\Debug\AirlineReservation.exe
